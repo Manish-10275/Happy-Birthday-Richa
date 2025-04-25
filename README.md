@@ -33,6 +33,6 @@ If you have any ideas to make it more interesting, please submit a pull request 
 
 ### [MIT](LICENSE)
 
-> Github [@Manish-10275]((https://github.com/Manish-10275)) &nbsp;&middot;&nbsp;
-> Instagram [@i_m_manish_chouhan]((https://www.instagram.com/i_m_manish_chouhan/)) &nbsp;&middot;&nbsp;
+> Github [@Manish-10275](https://github.com/Manish-10275) &nbsp;&middot;&nbsp;
+> Instagram [@i_m_manish_chouhan](https://www.instagram.com/i_m_manish_chouhan/) &nbsp;&middot;&nbsp;
 > Linkedin [@Manish Chouhan](https://www.linkedin.com/in/manish-chouhan-2301a7230/)
