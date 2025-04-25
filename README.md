@@ -1,6 +1,6 @@
 ## 🎉 Birthday Greeting Webpage 
 
-[Demo](https://fajarghifar.github.io/happybirthday/)
+[Demo](https://manish-10275.github.io/Happy-Birthday-Richa/)
 
 ## 🚀 How to Use
 
@@ -33,7 +33,6 @@ If you have any ideas to make it more interesting, please submit a pull request 
 
 ### [MIT](LICENSE)
 
-> Github [@fajarghifar](https://github.com/fajarghifar) &nbsp;&middot;&nbsp;
-> Youtube [@fajarghifar](https://www.youtube.com/@fajarghifar/) &nbsp;&middot;&nbsp;
-> Instagram [@fajarghifar](https://instagram.com/fajarghifar) &nbsp;&middot;&nbsp;
-> Linkedin [@fajarghifar](https://www.linkedin.com/in/fajarghifar/)
+> Github [@Manish-10275]((https://github.com/Manish-10275)) &nbsp;&middot;&nbsp;
+> Instagram [@i_m_manish_chouhan]((https://www.instagram.com/i_m_manish_chouhan/)) &nbsp;&middot;&nbsp;
+> Linkedin [@Manish Chouhan](https://www.linkedin.com/in/manish-chouhan-2301a7230/)
